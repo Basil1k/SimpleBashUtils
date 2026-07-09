@@ -1,0 +1,33 @@
+grep — утилита командной строки, которая находит на вводе строки, отвечающие заданному регулярному выражению,
+и выводит их,если вывод не отменён специальным ключом. Название представляет собой акроним английской фразы 
+«search globally for lines matching the regular expression, and print them» — «искать везде строки, 
+соответствующие регулярному выражению, и выводить их». Изначально была создана для операционной системы UNIX. 
+Томпсон написал первую версию на PDP-11 языке ассемблера, чтобы помочь Ли Э. МакМахону проанализировать текст
+«Записок Федералиста» и определить авторство отдельных статей. Текстовый редактор ed (также созданный Томпсоном) 
+имел поддержку регулярных выражений, но его нельзя было использовать для такого большого объема текста, поэтому 
+Томпсон извлек этот код в отдельный инструмент. Он выбрал это название, потому что в ed команда g / re / p 
+печатала все строки, соответствующие заданному шаблону. grep впервые был включен в Версию 4 Unix. Заявив, 
+что он «обычно упоминается как прототип программного средства», Макилрой приписал grep «безвозвратное внедрение» 
+философии инструментов Томпсона в Unix.
+
+grep is a command-line utility that finds input lines matching a given regular expression and prints them unless 
+suppressed with a special switch. The name is an acronym for the phrase "search globally for lines matching the 
+regular expression, and print them." It was originally developed for the UNIX operating system. Thompson wrote 
+the first version in PDP-11 assembly language to help Lee E. McMahon analyze the text of The Federalist Papers 
+and determine the authorship of individual articles. The text editor ed (also created by Thompson) had support 
+for regular expressions, but it couldn't be used for such a large volume of text, so Thompson extracted this 
+code into a separate tool. He chose this name because in ed, the command g / re / p printed all lines matching 
+a given pattern. grep was first included in Version 4 Unix. Stating that it is "commonly cited as the prototype 
+of a software tool," McIlroy credited grep with "irrevocably introducing" Thompson's tool philosophy into Unix.
+
+grep - bu berilgan muntazam ifodaga mos keladigan kirish satrlarini topadigan va maxsus kalit bilan bosilmasa, 
+ularni chop etadigan buyruq satri yordamchi dasturi. Bu nom "muntazam ifodaga mos keladigan satrlarni global miqyosda 
+qidiring va ularni chop eting" iborasining qisqartmasi. U dastlab UNIX operatsion tizimi uchun ishlab chiqilgan.
+Tompson birinchi versiyani Li E. MakMaxonga "Federalist hujjatlari" matnini tahlil qilish va individual maqolalarning 
+muallifligini aniqlashga yordam berish uchun PDP-11 assembler tilida yozgan. ed matn muharriri (shuningdek, Tompson 
+tomonidan yaratilgan) muntazam ifodalarni qo'llab-quvvatlagan, ammo uni bunday katta hajmdagi matn uchun ishlatib 
+bo'lmas edi, shuning uchun. Tompson bu kodni alohida vositaga ajratib oldi. U bu nomni tanladi, chunki ed da 
+g / re / p buyrug'i berilgan naqshga mos keladigan barcha satrlarni chop etdi. grep birinchi marta Unix versiyasi 
+4 ga kiritilgan. Makilroy "odatda dasturiy ta'minot vositasining prototipi sifatida tilga olinadi" deb ta'kidlab, 
+Tompsonning vosita falsafasini Unixga "qaytarib bo'lmaydigan tarzda kiritish" uchun grepga minnatdorchilik bildirdi.
+

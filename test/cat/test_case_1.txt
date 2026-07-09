@@ -1,0 +1,17 @@
+
+
+test  squzee_blank
+
+
+
+
+
+	<-TAB Проверка	табуляции	и	текста	на	русском
+
+
+©§°
+
+
+blend 	 	 TABs and Spaces
+
+	use ^ and M- notation, except for LFD and TAB

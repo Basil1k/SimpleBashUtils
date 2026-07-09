@@ -1,0 +1,17 @@
+"cat" 	is a shell command for writing the content of a file or input stream to standard output.
+The name is an abbreviation of catenate, a variant form of concatenate. 
+Originally developed for Unix, it is available on many operating systems and shells today.
+In addition to combining files, cat is commonly used to copy files and in particular to
+copy a file to the terminal monitor. Unless redirected, cat outputs file content on-screen.
+
+«cat» — это команда оболочки для вывода содержимого файла или входного потока на стандартный вывод.
+Название является сокращением от catenate, варианта слова concatenate.
+Первоначально разработанная для Unix, сегодня она доступна во многих операционных системах и оболочках.
+Помимо объединения файлов, cat обычно используется для копирования файлов, и в частности для
+копирования файла на монитор терминала. Если не указано иное, cat выводит содержимое файла на экран.
+
+"cat" - fayl yoki kirish oqimining tarkibini standart chiqishga yozish uchun qobiq buyrug'i.
+Bu nom catenate so'zining qisqartmasi bo'lib, concatenate so'zining variant shaklidir.
+Dastlab Unix uchun ishlab chiqilgan bo'lib, bugungi kunda ko'plab operatsion tizimlar va qobiqlarda mavjud.
+Fayllarni birlashtirishdan tashqari, cat odatda fayllarni nusxalash va xususan,
+faylni terminal monitoriga nusxalash uchun ishlatiladi. Qayta yo'naltirilmasa, cat fayl tarkibini ekranda chiqaradi.
